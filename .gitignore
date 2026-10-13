@@ -1,0 +1,54 @@
+# Python virtual environments
+
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Kivy / Python cache
+
+.cache/
+cache/
+
+# Generated files
+
+generated_reports/
+
+# Build files
+
+build/
+dist/
+*.spec
+
+# IDE files
+
+.vscode/
+.idea/
+
+# Python packaging
+
+*.egg-info/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Firebase configuration
+
+google-services.json
+
+.venv-1/
+.venv311/
+
+bin/
